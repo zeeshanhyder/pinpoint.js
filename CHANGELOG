@@ -1,0 +1,29 @@
+
+
+pinpoint.js-Geolocation+GoogleMaps Javascript library
+Current Version:0.1b
+Author:Zeeshan Hyder
+License: MIT
+
+===CHANGELOG
+Version 0.1b
+07/05/2014
+
+This is the first beta release. It includes following features and issues if any:
+
+1. Provide automated geolocation information.
+2. Convert given coordinates to Google Readable Format.
+3. Retrieve Location Name based on given coordinates.
+
+Issues:
+1. Retrieves location name object in _Name[0] Array instead of _name object.
+
+
+==UPCOMING CHANGES AND ADDITIONS:
+Version 0.2b
+
+-CHANGE: Fix _name object issue
+-ADD: Convert location name to coordinates
+-ADD: Find distance between two points
+
+
