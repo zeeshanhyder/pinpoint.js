@@ -51,7 +51,7 @@ function geolocation() {
 	if (window === this)
 		return new geolocation();
 }
-vb = new Object();
+
 geolocation.prototype = {
 	__getCoords : function() {
 		return ( {
