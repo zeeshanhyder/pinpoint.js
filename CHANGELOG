@@ -17,7 +17,7 @@ This is the first beta release. It includes following features and issues if any
 
 Issues:
 1. Retrieves location name object in _Name[0] Array instead of _name object.
-
+(Will be fixed soon)
 
 ==UPCOMING CHANGES AND ADDITIONS:
 Version 0.2b
